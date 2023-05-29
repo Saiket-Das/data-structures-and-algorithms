@@ -1,19 +1,21 @@
-#include<iostream>
-#include<string.h>     // import from C header
+#include<bits/stdc++.h>
 using namespace std;
 
 int main () {
 
-    // String input & output in C++
+    // String in C++
 
-    char str[100];
+    string saiket = "Saiket Das";
+    string ahan = "Ahan Bryan";
 
-    // cin  >> str;     // String input without space
+    if (saiket == ahan) {
+        cout << "True" << endl;
+    }
+    else {
+        cout << "False" << endl;
+    }
 
-    cin.getline(str, 100);     // String input with space
-    
-    cout << str << endl;
-    cout << strlen(str);
+    cout << ahan << " " << saiket << endl;
 
     return 0;
 }
