@@ -1,2 +1,4 @@
 # Data Structures and Algorithms
-> Leaning basic C++
+> Learning Basic **C++**
+
+> Learning Basic **Data Structures**
