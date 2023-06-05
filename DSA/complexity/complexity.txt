@@ -1,0 +1,25 @@
+# Complexity
+
+How to measure complexity?
+   1 - Time complexity
+   2 - Space complexity
+
+Time complexity is defined in terms of how many times it takes to run a given algorithm, based on the length of the input.
+
+Space complexity is the total memory space required or used by the program for its execution. Space complexity is the total space taken by the algorithm with respect to the input size plus the auxiliary space that the algorithm uses 
+
+
+Time complexity
+  O(1)       ->
+  O(logN)    -> 10^18
+  O(sqrtN)   -> 10^14
+  O(N)       -> 10^7
+  O(Nlog(N)) -> 10^5 (1s) & 10^6 (2s)
+  O(N^2)     -> 10^3
+
+Spcae Complexity
+  O(logN)   -> 10^18
+  O(sqrtN)  -> 10^12
+  O(N)      -> 10^6
+  O(NlogN)  -> 10^5
+  O(n^2)    -> 10^3
