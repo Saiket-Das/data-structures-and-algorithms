@@ -1,0 +1,14 @@
+Vectors are the same as dynamic arrays with the ability to resize itself automatically when an element is inserted or deleted, with their storage being handled automatically by the container.
+
+vector in C++ is the class template that contains the vector container and its member functions.
+
+Constructor   
+  Name                      Details                                                                   Time complexity  
+  -------                   -----------                                                               ------------------
+  vector<type>v          -> Construct a vector with 0 elements                                     -> O(1)
+  vector<type>v(N)       -> Construct a vector with N elements and the value will be garbage       -> O(N)
+  vector<type>v(N,V)     -> Construct a vector with N elements and the value will be V             -> O(N)
+  vector<type>v(v2)      -> Construct a vector by copying another vector v2                        -> O(N)
+  vector<type>v(A,A+N)   -> Construct a vector by copying all elements from an array A of size N   -> O(N)
+
+
