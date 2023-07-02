@@ -1,2 +1,2 @@
 ### Queue
-![stack](https://github.com/Saiket-Das/data-structures-and-algorithms/assets/95159633/f47ecb85-d588-4b81-95fc-f6ffaa4d6566)
+![Queue-Data-Structures](https://github.com/Saiket-Das/data-structures-and-algorithms/assets/95159633/5ab71e56-36f6-44f9-b290-5cc2d3c2c1d0)
