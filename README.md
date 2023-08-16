@@ -2,3 +2,5 @@
 > Learning Basic **C++**
 
 > Learning Basic **Data Structures**
+
+> Learning Basic **Algorithms**
